@@ -4,6 +4,6 @@ public class hey
           int x =5; //first arguments.
           int y = 10; //second arguments.
           int multiply = x * y;
-          System.out.println("The sum of x and y is: " +multiply);
+          System.out.println("The multiply of x and y is: " +multiply);
 	}
 }
